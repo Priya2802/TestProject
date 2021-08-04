@@ -4,4 +4,5 @@ public class Test {
   {
 	System.out.println("helloo world");
 	System.out.println("welcome");
+	  System.out.println("have a nice day");
 }}
